@@ -1,0 +1,6 @@
+tensorflow==2.9
+tensorflow-gpu==2.9 
+opencv-python
+mediapipe 
+sklearn 
+matplotlib
